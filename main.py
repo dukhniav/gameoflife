@@ -92,6 +92,7 @@ def update(grid, x, y):
             return 0
 
 
+
 def main():
     global DONE
 
